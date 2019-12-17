@@ -1,0 +1,77 @@
+<accommodations>
+	<accommodation>
+		<code>AT1130.120.1</code> 
+		<name/>
+		<country>AT</country> 
+		<region>01</region> 
+		<place>01130</place> 
+		<zip>1130</zip> 
+		<type>D</type> 
+		<quality>3</quality> 
+		<details>D</details> 
+		<brand>I</brand> 
+		<pax>5</pax> 
+		<sqm>90</sqm> 
+		<floor>01</floor> 
+		<rooms>4</rooms> 
+		<bedrooms>3</bedrooms>  
+		<toilets>1</toilets>  
+		<bathrooms>1</bathrooms> 
+
+		<geodata> 
+			<lat>48.1689310000</lat>  
+			<lng>16.2872260000</lng>  
+		</geodata> 
+
+		<attributes> 
+			<attribute>extrabed</attribute>
+			<attribute>petsallowed</attribute>  
+			<attribute>hikingplains</attribute>  
+			<attribute>themepark</attribute>  
+			<attribute>garden</attribute>  
+			<attribute>balcony</attribute>  
+			<attribute>bbq</attribute>  
+			<attribute>dishwasher</attribute>  
+			<attribute>parking</attribute>  
+			<attribute>tv</attribute>  
+			<attribute>washingmachine</attribute>  
+			<attribute>internet</attribute>  
+			<attribute>wlan</attribute>  
+		</attributes> 
+
+		<distances> 
+			<distance> 
+				<type>publitransport</type>  
+				<value>500</value>
+			</distance>
+			<distance> 
+				<type>center</type>  
+				<value>7000</value>
+			</distance> 
+		</distances>
+
+		<themes>
+		 	<theme>CITYTRIPS</theme>
+		 	<theme>NIGHTLIFE</theme>
+		</themes>
+
+		<pictures>
+			<picture>
+				<type>m</type> 
+				<season>s</season> 
+				<url>http://images.interhome.com/AD1700.100/partnermedium/547171-1-1761069-1331023931</url>  
+				<datetime> 20140310063101.9633080 </datetime> 
+			</picture> 
+			<picture> 
+				<type>i</type> 
+				<season>s</season> 
+				<url>http://images.interhome.com/AD1700.100/partnermedium/547171-1-1592401-1315838716 </url>  
+				<datetime> 20140310063101.9635340</datetime> 
+			</picture> 
+		</pictures>
+		<rating> 
+			<overallrating>5.0</overallrating> 
+			<numberofreviews>1</numberofreviews> 
+		</rating> 
+	</accommodation>
+</accommodations>

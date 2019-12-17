@@ -1,0 +1,75 @@
+<countries>
+	<country> 
+ 		<code>CH</code>  
+		<name>Schweiz</name>  
+		<regions>
+	 		<region>
+	  			<code>10</code>  
+	  			<name>Mittelland</name>  
+
+	  			<places>
+
+	   				<place>
+	   					<code>1000</code>  
+	   					<name>Zürich</name>  
+	   					<places> 
+	   						<place> 
+	   							<code>1010</code>  
+	   							<name>Zürich 1</name>  
+	   						</place>
+	   						<place>
+	   							<code>1020</code>  
+	   							<name>Zürich 2</name>  
+	   						</place> 
+	   					</places>
+	   				</place>
+
+	   				<place>
+	   					<code>2000</code>  
+	   					<name>Bern</name>  
+	   				</place> 
+	   			</places>
+
+	   		</region>
+
+	   		<region>
+	   			<code>20</code>  
+	   			<name>Graubünden</name>  
+	   			<regions> 
+	   				<region> 
+	   					<code>21</code>  
+	   					<name>Engadin</name>  
+	   					<places> 
+	   						<place> 
+	   							<code>2110</code>  
+	   							<name>Sedrun 1</name>  
+	   						</place> 
+	   						<place> 
+	   							<code>2120</code>  
+	   							<name>Sedrun 2</name>  
+	   						</place> 
+	   					</places>
+	   				</region>
+
+	   		        <region>
+	   		        	<code>22</code>  
+	   		        	<name>Mittelbünden</name>
+
+	   		        	<places> 
+	   		        		<place> 
+	   		        			<code>2210</code>  
+								<name>Davos 1</name>  
+							</place> 
+							<place> 
+								<code>2220</code>  
+								<name>Davos 2</name> 
+							</place> 
+						</places>
+
+					</region> 
+
+				</regions> 
+			</region> 
+		</regions> 
+	</country> 
+</countries> 

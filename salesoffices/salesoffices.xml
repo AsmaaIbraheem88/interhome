@@ -1,0 +1,63 @@
+<salesoffice>
+ <code>2047</code>  
+ <name>Interhome AG</name>  
+ <address1 />  
+ <address2 />  
+ <street>Sägereistrasse 27</street>  
+ <zip>8152</zip>  
+ <place>Glattbrugg</place>  
+ <country>CH</country>  
+ <phone>+41 (0) 43 810 91 26</phone>  
+ <fax>+41 (0) 43 810 91 25</fax>  
+ <email>reservations@interhome.com</email>  
+ <!-- <termsandconditions>http ://www.interhome.com/PDF.ashx?pdfDoc=1&langCode=EN</termsandconditions> --> 
+ 
+ <bank>
+  <name>Credit Suisse, CH-8070 Zürich</name>  
+  <bankcode>4835</bankcode>  
+  <accountnumber>384154-11</accountnumber>  
+  <swift>CRESCHZZ81Z</swift>  
+  <iban>CH5104835038415411000</iban>  
+ </bank> 
+
+ <payments>
+  <payment>
+   <mode>CC</mode>  
+   <type>MAST</type>  
+   <daysbefore>1</daysbefore>  
+  </payment> 
+  <payment> 
+  	<mode>CC</mode>  
+  	<type>VISA</type>  
+  	<daysbefore>1</daysbefore>  
+  </payment> 
+  <payment>
+    <mode>INV</mode>
+    <type>INVOICE</type>
+    <daysbefore>29</daysbefore>  
+  </payment>
+ </payments>
+
+
+ <cancellationconditions>
+
+  <cancellationcondition> 
+  	<daysbefore>1</daysbefore>
+  	<percent>100</percent>  
+  </cancellationcondition> 
+  <cancellationcondition>
+   <daysbefore>28</daysbefore>  
+   <percent>80</percent>
+  </cancellationcondition> 
+  <cancellationcondition>
+   <daysbefore>42</daysbefore>  
+   <percent>50</percent>  
+  </cancellationcondition>
+  <cancellationcondition> 
+  	<daysbefore>999</daysbefore>
+  	<percent>10</percent>
+  </cancellationcondition>
+  
+  </cancellationconditions> 
+
+</salesoffice> 
